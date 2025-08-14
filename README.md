@@ -61,13 +61,13 @@
 > Swap in your actual username for the cards.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyasf&show_icons=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasf" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasf&layout=compact" alt="Top Languages" />
 </p>
 
 ---
