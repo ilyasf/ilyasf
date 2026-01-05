@@ -3,7 +3,8 @@
 <p align="center">
   <b>Lead Software Engineer • Software Architect • Web IC</b><br/>
   London, UK · <a href="mailto:ilyasf@yandex.ru">ilyasf@yandex.ru</a> · 
-  <a href="https://www.linkedin.com/in/ilias-fasikhov">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ilias-fasikhov">LinkedIn</a> · 
+  <a href="https://1drv.ms/w/c/c3ec47e4dc26fe5a/EWYFtgWfwE1CoFKGlEL_xzMBMRJlDEQo9yXM1i_zqcNdtQ?e=Tg7Bx2" target="_blank" rel="noopener">Get CV</a>
 </p>
 
 <p align="center">
